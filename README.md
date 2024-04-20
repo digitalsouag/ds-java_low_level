@@ -4,6 +4,10 @@
 * [Environment Java](#environment)
 * [File Descriptions](#file-descriptions)
 * [Écrire et exécuter votre premier programme Java](#examples-of-use)
+* **Variables et types de données**
+* **Opérateurs**
+* **Instructions de contrôle**
+* **Fonctions et méthodes**
   
 # Feuille de route pour débuter en Java
 
